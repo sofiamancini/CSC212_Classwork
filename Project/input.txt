@@ -1,0 +1,2 @@
+insert Alcatraz Island, San Francisco, CA 37.8270 122.4230
+find 30 -100

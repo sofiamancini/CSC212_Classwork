@@ -1,0 +1,8 @@
+set Brazil
+set United Kingdom
+set Korea, South
+map China
+map US
+map Australia
+map US;Oregon
+map Kazakhstan

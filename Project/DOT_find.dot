@@ -1,0 +1,33 @@
+digraph G {
+
+    0 -> 1 [color="black"];
+    0 -> 42 [color="green"];
+    42 -> 43 [color="black"];
+    42 -> 63 [color="green"];
+    43 -> 44 [color="green"];
+    43 -> 54 [color="black"];
+    44 -> 45 [color="black"];
+    44 -> 50 [color="green"];
+    50 -> 51 [color="green"];
+    50 -> 53 [color="black"];
+    51 -> 52 [color="black"];
+    63 -> 64 [color="green"];
+    63 -> 73 [color="black"];
+    64 -> 65 [color="black"];
+    64 -> 69 [color="green"];
+    65 -> 66 [color="black"];
+    65 -> 68 [color="purple"];
+    69 -> 70 [color="green"];
+    69 -> 72 [color="black"];
+    70 -> 71 [color="green"];
+    73 -> 74 [color="black"];
+    73 -> 78 [color="green"];
+    74 -> 75 [color="green"];
+    74 -> 77 [color="black"];
+    75 -> 76 [color="black"];
+    78 -> 79 [color="green"];
+    78 -> 81 [color="black"];
+    79 -> 80 [color="green"];
+    68 [color=purple, style=bold];
+
+}
